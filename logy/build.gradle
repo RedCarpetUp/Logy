@@ -17,9 +17,35 @@ android {
         }
     }
 }
+ext {
+    bintrayRepo = 'maven'
+    bintrayName = 'Logy'
+
+    publishedGroupId = 'co.balrampandey'
+    libraryName = 'Loguy'
+    artifact = 'logy'
+
+    libraryDescription = 'Simple, pretty and powerful logger for android'
+
+    siteUrl = 'https://github.com/balrampandey19/Logy'
+    gitUrl = 'https://github.com/balrampandey19/Logy.git'
+
+    libraryVersion = '1.0.0'
+
+    developerId = 'balrampandey19'
+    developerName = 'Balram Pandey'
+    developerEmail = 'balrampandey19@gamil.com'
+
+    licenseName = 'The Apache Software License, Version 2.0'
+    licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+    allLicenses = ["Apache-2.0"]
+
+}
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:24.0.0'
 }
+apply from: 'https://raw.githubusercontent.com/brightec/JCenter/master/installv1.gradle'
+apply from: 'https://raw.githubusercontent.com/brightec/JCenter/master/bintrayv1.gradle'
