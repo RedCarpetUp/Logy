@@ -1,7 +1,7 @@
 
 <img align="center" src='https://github.com/balrampandey19/Logy/blob/master/logy.jpg' width='500' height='200'/>
 
-# A Simple clean and powerful Android logger.
+# A Simple clean, and powerful Android logger.
 
 ##By using logy you can get
 
@@ -50,7 +50,6 @@ Logy.setEnable(false);
 
 ```
 Logy.d(list);
-
 ```
 
 #Download
@@ -59,7 +58,6 @@ Logy.d(list);
 The Gradle dependency is available via jCenter. jCenter is the default Maven repository used by Android Studio.
 ```
 compile 'co.balrampandey:logy:1.0.0'
-
 ```
 
 #License
