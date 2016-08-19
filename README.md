@@ -1,3 +1,4 @@
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Logy-green.svg?style=true)](https://android-arsenal.com/details/1/4177)
 
 <img align="center" src='https://github.com/balrampandey19/Logy/blob/master/logy.jpg' width='500' height='200'/>
 
