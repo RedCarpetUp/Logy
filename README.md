@@ -2,7 +2,7 @@
 
 <img align="center" src='https://github.com/balrampandey19/Logy/blob/master/logy.jpg' width='500' height='200'/>
 
-# A Simple clean, and powerful Android logger.
+#A Simple clean, and powerful Android logger.
 
 ##By using logy you can get
 
