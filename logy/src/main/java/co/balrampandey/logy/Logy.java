@@ -83,7 +83,7 @@ public class Logy {
         }
     }
 
-    /** Log an debug message with class name and method name. */
+    /** Log an debug message with class name and method name with logy. */
 
     public static void d(String logMsg) {
         if (isEnable()) {
