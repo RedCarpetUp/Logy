@@ -53,7 +53,7 @@ public class Logy {
 
 
 
-    /** Log an info message.  */
+    /** Log an info message with logy.  */
 
     public static void i(String c, String s) {
         if (isEnable()) {
