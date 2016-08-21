@@ -8,7 +8,6 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 /**
- * Created by Balram Pandey on 10/08/16.
  * Copyright 2016 Balram Pandey
 
  Licensed under the Apache License, Version 2.0 (the "License");
