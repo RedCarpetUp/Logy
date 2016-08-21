@@ -29,7 +29,7 @@ public class Logy {
 
 
 
-    /** Log a verbose message.  */
+    /** Log a verbose message with logy.  */
 
     public static void v(String c, String s) {
         if (isEnable()) {

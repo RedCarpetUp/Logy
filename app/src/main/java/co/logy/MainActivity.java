@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+        final FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -32,7 +32,6 @@ public class MainActivity extends AppCompatActivity {
                 Logy.i("Logy INFO", "INFO");
                 Logy.w("Logu WARN", "WARN");
                 checkMethodDebug();
-
                     showLogyJson();
 
                 Snackbar.make(view, "Check Logcat", Snackbar.LENGTH_LONG)
