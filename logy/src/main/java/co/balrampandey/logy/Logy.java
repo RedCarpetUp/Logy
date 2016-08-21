@@ -63,7 +63,7 @@ public class Logy {
         }
     }
 
-    /** Log a warning message. */
+    /** Log a warning message with logy. */
 
     public static void w(String c, String s) {
         if (isEnable()) {
