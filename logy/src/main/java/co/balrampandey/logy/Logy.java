@@ -92,7 +92,7 @@ public class Logy {
     }
 
 
-    /** Log an josn message with structural format. */
+    /** Log an josn message with structural format with logy. */
 
     public static void json(String tag, Object source) {
         if (isEnable()) {
