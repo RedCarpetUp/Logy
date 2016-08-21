@@ -41,7 +41,7 @@ public class Logy {
 
 
 
-    /** Log a debug message. */
+    /** Log a debug message with logy. */
 
     public static void d(String c, String s) {
         if (isEnable()){
