@@ -8,7 +8,7 @@
 
 # A Simple clean, and powerful Android logger.
 
-##By using logy you can get
+## By using logy you can get
 
 * Clean output 
 * Clean JSON output.
