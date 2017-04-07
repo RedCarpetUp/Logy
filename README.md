@@ -6,7 +6,7 @@
 
 
 
-#A Simple clean, and powerful Android logger.
+# A Simple clean, and powerful Android logger.
 
 ##By using logy you can get
 
