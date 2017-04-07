@@ -34,7 +34,7 @@
   Logy.w("Logu WARN", "WARN");
   
   ```
-####JSON with logy
+#### JSON with logy
 
 ```
 String json="{\"phonetype\":\"N95\",\"cat\":\"WP\"}\n";
@@ -46,7 +46,7 @@ String json="{\"phonetype\":\"N95\",\"cat\":\"WP\"}\n";
         }
 
 ```
-####Disable logy in debug build
+#### Disable logy in debug build
 ```
 Logy.setEnable(false);
 
