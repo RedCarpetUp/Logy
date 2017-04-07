@@ -58,7 +58,7 @@ Logy.d(list);
 ```
 
 # Download
-###Repository
+### Repository
 
 The Gradle dependency is available via jCenter. jCenter is the default Maven repository used by Android Studio.
 ```
@@ -69,7 +69,7 @@ compile 'co.balrampandey:logy:1.0.0'
 }
 ```
 
-#License
+# License
 
 ```
 
