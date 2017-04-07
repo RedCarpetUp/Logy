@@ -18,9 +18,9 @@
 * Lightweight and clean library
 * Jump to source
 
-#Usage
+# Usage
 
-####Simple logs with logy
+#### Simple logs with logy
 
 ```
   Logy.e("Logy Error", "error");
