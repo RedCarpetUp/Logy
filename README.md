@@ -51,13 +51,13 @@ String json="{\"phonetype\":\"N95\",\"cat\":\"WP\"}\n";
 Logy.setEnable(false);
 
 ```
-####Array, ArrayList with logy
+#### Array, ArrayList with logy
 
 ```
 Logy.d(list);
 ```
 
-#Download
+# Download
 ###Repository
 
 The Gradle dependency is available via jCenter. jCenter is the default Maven repository used by Android Studio.
