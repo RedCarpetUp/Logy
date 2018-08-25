@@ -1,6 +1,4 @@
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Logy-green.svg?style=true)](https://android-arsenal.com/details/1/4177)
-
-[![](https://jitpack.io/v/RedCarpetUp/Logy.svg)](https://jitpack.io/#RedCarpetUp/Logy)
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Logy-green.svg?style=true)](https://android-arsenal.com/details/1/4177)  [![](https://jitpack.io/v/RedCarpetUp/Logy.svg)](https://jitpack.io/#RedCarpetUp/Logy)
 
 
 
