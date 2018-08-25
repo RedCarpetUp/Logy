@@ -63,17 +63,15 @@ Logy.d(list);
 The Gradle dependency is available via jCenter. jCenter is the default Maven repository used by Android Studio.
 ```
 dependencies {
-
-compile 'co.balrampandey:logy:1.0.0'
-
-}
+	        implementation 'com.github.RedCarpetUp:Logy:v1.0.0'
+	}
 ```
 
 # License
 
 ```
 
-Copyright 2016 Balram Pandey
+Copyright 2018 RedcarpetUp
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
