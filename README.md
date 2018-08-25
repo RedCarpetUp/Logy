@@ -1,5 +1,8 @@
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Logy-green.svg?style=true)](https://android-arsenal.com/details/1/4177)
 
+[![](https://jitpack.io/v/RedCarpetUp/Logy.svg)](https://jitpack.io/#RedCarpetUp/Logy)
+
+
 
 
 <img align="center" src='https://github.com/balrampandey19/Logy/blob/master/logy.jpg' width='400' height='200'/>
